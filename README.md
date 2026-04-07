@@ -1,1 +1,1 @@
-This is framework for web automation using playwright with javascript with POM
+This is framework for web automation using playwright with javascript & POM
