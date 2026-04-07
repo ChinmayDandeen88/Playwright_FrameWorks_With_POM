@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11311","Login To Application With Valid Crdentials","chromium","Wed Apr 01 21:48:25 IST 2026","failed","Wed Apr 01 21:48:36 IST 2026","All Login Scenarios","LoginTest.spec.js","",""

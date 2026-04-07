@@ -1,0 +1,10 @@
+1. Built in Fixture - page, browser,Request
+
+
+2. test.extend() -> add your own custom fixture or functionality that you want to in each test
+
+3. result is the new test object that includes page from playwright & new page which we created
+
+4. {page} - dependency injection
+
+5. use - use is call back provided by playwright fixture to pass the fixture value to the test.

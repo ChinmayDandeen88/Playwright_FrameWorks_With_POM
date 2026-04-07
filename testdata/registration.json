@@ -1,0 +1,35 @@
+[
+ {
+    "name" : "Chinmay Dandeen",
+    "email": "chinmay.dandeen",
+    "password":"example@123",
+    "state":"Delhi",
+    "hobbies": ["playing","reading"]
+ },
+ 
+ {
+    "name" : "Vidya Devi",
+    "email": "Vidya.devi",
+    "password":"example@123",
+    "state":"Goa",
+    "hobbies": ["playing"]
+ },
+
+ {
+    "name" : "Mukesh O",
+    "email": "Mukesh.O",
+    "password":"example@123",
+    "state":"Karnataka",
+    "hobbies": ["playing","Swmiming"]
+ },
+
+ {
+    "name" : " Ramesh",
+    "email": "Ramesh.Dandeen",
+    "password":"example@123",
+    "state":"Punjab",
+    "hobbies": ["reading"]
+ }
+ 
+
+]

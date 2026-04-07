@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","27378","Creating New User Chinmay Dandeen","chromium","Sun Mar 29 22:02:42 IST 2026","passed","Sun Mar 29 22:03:09 IST 2026","New user Registration Test","RegistrationTest.spec.js","",""
+"","26015","Creating New User Ramesh","chromium","Sun Mar 29 22:02:49 IST 2026","passed","Sun Mar 29 22:03:15 IST 2026","New user Registration Test","RegistrationTest.spec.js","",""
+"","26851","Creating New User Vidya Devi","chromium","Sun Mar 29 22:02:42 IST 2026","passed","Sun Mar 29 22:03:09 IST 2026","New user Registration Test","RegistrationTest.spec.js","",""
+"","25904","Creating New User Mukesh O","chromium","Sun Mar 29 22:02:42 IST 2026","passed","Sun Mar 29 22:03:08 IST 2026","New user Registration Test","RegistrationTest.spec.js","",""
+"","6243","Login To Application With Valid Crdentials","chromium","Sun Mar 29 22:02:42 IST 2026","passed","Sun Mar 29 22:02:48 IST 2026","All Login Scenarios","LoginTest.spec.js","",""
